@@ -106,7 +106,7 @@ The trained model is deployed as a web application that allows users to upload a
 ---
 
 ## Project Structure
-`
+```
 root/
 ├── notebooks/ # Data exploration, training, evaluation
 ├── backend/ # Node.js server
@@ -114,7 +114,7 @@ root/
 ├── models/ # Trained models
 ├── images/ # Figures and screenshots
 └── README.md
-`
+```
 
 ---
 
