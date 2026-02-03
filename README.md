@@ -81,6 +81,8 @@ Due to the medical nature of the task, accuracy alone is not sufficient.
 - High ROC–AUC score indicating strong classification capability
 - High recall ensuring minimal missed malignant cases
 - Precision within an acceptable clinical range
+  
+Model performance visualizations will be added after final training runs.
 
 ### Model Performance Visualization
 
